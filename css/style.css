@@ -66,6 +66,9 @@ p {
     width: 48%;
     float: left;
   }
+  #tablet {
+    width: 98%;
+  }
 }
 
 /* Deskop View */
